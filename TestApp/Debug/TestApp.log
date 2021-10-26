@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\AndreySavich\source\repos\TestApp\TestApp\Source.c(12,10): warning C4477: "scanf_s": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "char (*)[100]"
+C:\Users\AndreySavich\source\repos\TestApp\TestApp\Source.c(12,10): message : рекомендуется использовать "%hhd" в строке форматирования
+C:\Users\AndreySavich\source\repos\TestApp\TestApp\Source.c(13,12): warning C4013: strcmp: нет определения; предполагается "extern" с возвратом типа "int"
+  TestApp.vcxproj -> C:\Users\AndreySavich\source\repos\TestApp\Debug\TestApp.exe
